@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Educational App</string>
+
+    <string name="Question_1">Question 1</string>
+    <string name="What_Sport_Kelly_Slater_Plays">What Sport Kelly Slater Plays?</string>
+    <string name="Baseball">Baseball</string>
+    <string name="Surfing">Surfing</string>
+
+    <string name="Question_2">Question 2</string>
+    <string name="How_Many_World_Titles_KS_Has_Won">How Many World Titles KS Has Won?</string>
+    <string name="three_World_Titles">3 World Titles</string>
+    <string name="eleven_Wolrd_Titles">11 Wolrd Titles</string>
+
+    <string name="Question_3">Question 3</string>
+    <string name="How_Do_You_Spell_KS_Name">How Do you Spell KS Name?</string>
+    <string name="Spell_KS_Name">Spell KS Name</string>
+
+
+    <string name="Question_4">Question 4</string>
+    <string name="In_Which_Houses_Kelly_Lives_Select_all_that_apply">In Which Houses Kelly Lives? (Select all that apply)</string>
+    <string name="Jadaipur">Jadaipur, India</string>
+    <string name="Santa_Barbara">Santa Barbara, California</string>
+    <string name="Gold_Coast">Gold Coast, Australia</string>
+    <string name="North_Shore">North Shore, Hawaii</string>
+    <string name="Milan">Milan, Italy</string>
+
+
+    <string name="Question_5">Question 5</string>
+    <string name="Who_Was_KS_Biggest_Archrival">Who Was KS Biggest Archrival?</string>
+    <string name="Andy_Irons">Andy Irons</string>
+    <string name="Tom_Curren">Tom Curren</string>
+
+
+    <string name="Question_6">Question 6</string>
+    <string name="What_is_KS_Age_in_2018">What is KS Age in 2018?</string>
+    <string name="forty_five">45</string>
+    <string name="forty_six">46</string>
+
+
+    <string name="Question_7">Question 7</string>
+    <string name="What_is_KS_Middle_Name">What is KS Middle Name?</string>
+    <string name="R">R</string>
+
+
+    <string name="SUBMIT_ANSWERS">SUBMIT ANSWERS</string>
+
+
+    <string name="resetScores">resetScores</string>
+    <string name="RESET">RESET</string>
+
+</resources>
